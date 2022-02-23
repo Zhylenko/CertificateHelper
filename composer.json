@@ -1,7 +1,8 @@
 {
     "name": "zhylenko/certificatehelper",
     "description": "Getting info about certificate",
-    "version": "1.0",
+    "version": "1.3",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "CertificateHelper\\": "src/CertificateHelper/"
