@@ -1,0 +1,19 @@
+{
+    "name": "zhylenko/certificatehelper",
+    "description": "Getting info about certificate",
+    "version": "1.0",
+    "autoload": {
+        "psr-4": {
+            "CertificateHelper\\": "src/CertificateHelper/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Zhylenko",
+            "email": "zhylenko.vlad@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
